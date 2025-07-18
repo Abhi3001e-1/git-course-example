@@ -7,3 +7,5 @@ We are about to commit without best practices.
 hi
 
 goodbye
+
+docs
